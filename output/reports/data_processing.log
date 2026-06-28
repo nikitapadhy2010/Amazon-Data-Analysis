@@ -1,0 +1,16 @@
+2026-06-28 20:00:45,029 [INFO] Attempting to load dataset from: data/Amazon_Sales.xlsx
+2026-06-28 20:00:54,295 [INFO] Successfully loaded dataset of shape (100000, 20) in 9.27 seconds.
+2026-06-28 20:00:54,295 [INFO] Starting data validation...
+2026-06-28 20:00:54,323 [INFO] Missing values found: {}
+2026-06-28 20:00:54,407 [INFO] Duplicate rows count: 0
+2026-06-28 20:00:54,408 [INFO] Negative values found: {}
+2026-06-28 20:00:54,409 [INFO] Outliers in TotalAmount (Z > 3): 510
+2026-06-28 20:00:54,409 [INFO] Starting data cleaning and enrichment...
+2026-06-28 20:00:54,617 [INFO] Mapping Sub-Categories based on product list...
+2026-06-28 20:00:54,625 [INFO] Calculating derived Profit column...
+2026-06-28 20:00:54,638 [INFO] Data cleaning and enrichment complete.
+2026-06-28 20:01:09,501 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-28 20:01:09,502 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-28 20:01:09,507 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-28 20:01:09,508 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-28 20:01:09,509 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
